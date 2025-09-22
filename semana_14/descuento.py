@@ -29,4 +29,4 @@ def calcular_descuento (monto,descuento): #Creamos la función con 2 parametros 
 
 
 de = calcular_descuento(suma,descuento_f)  #Llamamos a nuestra función y le pasamos los parametros
-print(de)  #Imprimimos la función
+print(de)  #Imprimimos la función y fin
